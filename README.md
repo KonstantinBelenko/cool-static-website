@@ -12,5 +12,6 @@ $ git clone https://github.com/KonstantinBelenko/cool-static-website.git && cd c
 $ vim ./src/App.js
 
 # After you have configured the site how you want, you can run the script.
+$ sudo chmod +x ./install_webserver.sh
 $ ./install_webserver.sh
 ```
