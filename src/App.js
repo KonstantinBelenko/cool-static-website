@@ -4,6 +4,9 @@ import {useEffect} from 'react';
 
 function App() {
 
+  // React-rewards
+  // https://github.com/thedevelobear/react-rewards
+
   // Initialize confetti 
   const { reward, isAnimating } = useReward('rewR', 'emoji', {
     angle:90,
