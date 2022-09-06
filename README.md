@@ -12,4 +12,12 @@ $ git clone https://github.com/KonstantinBelenko/cool-static-website.git && cd c
 # This script will install apache2 and move the build repository to the /var/ww/html
 $ sudo chmod +x ./install_webserver.sh
 $ ./install_webserver.sh
+
+# It works! 🥳
 ```
+
+# 🗒 Configuration
+It is very easy to make changes to this website, all you need to do is:
+1. Modify source how you want. Main configuration appears at the /src/App.js
+2. Build it with `npm run build`
+3. Run the script to update the static apache2 host `install_webserver.sh`
