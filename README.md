@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/90444271/188604949-fbde4ab0-56de-4a22-8fee-f647c1f6163e.png)
+[Link](http://coolwebsite1337.s3-website.eu-central-1.amazonaws.com/)
 
 # 👋 Just a static website!
 This is a cool website to use when testing routing! This repo cointains a script to install it with apache2 server on ubuntu.
